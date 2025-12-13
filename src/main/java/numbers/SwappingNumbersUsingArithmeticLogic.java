@@ -12,6 +12,6 @@ public class SwappingNumbersUsingArithmeticLogic {
         a = a - b;//20
 
         System.out.println("The value of swapped a is: "+ a + " and the value of swapped b is: "+b);
-        
+
     }
 }
