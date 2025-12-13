@@ -1,0 +1,17 @@
+package numbers;
+
+public class SwappingNumbersUsingArithmeticLogic {
+
+    public static void main(String[] args){
+
+        int a =10;
+        int b=20;
+
+        a = a + b; //30
+        b = a - b; //10
+        a = a - b;//20
+
+        System.out.println("The value of swapped a is: "+ a + " and the value of swapped b is: "+b);
+        
+    }
+}
